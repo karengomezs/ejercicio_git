@@ -3,4 +3,4 @@ let introduccion;
 let informatica;
 let nati;
 
-let cambio4;
+let cambio6;
